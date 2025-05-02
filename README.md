@@ -6,7 +6,7 @@ Preliminary Dataset: https://www.kaggle.com/datasets/taeefnajib/used-car-price-p
 
 Scraped Website:  https://www.cars.com/shopping/results/?stock_type=used&makes%5B%5D=&models%5B%5D=&maximum_distance=250&zip=52242
 
-# Jupyter Files
+# Table of Contents
 | File Name | Description |
 | ------ | ------ |
 | sjerden_projectscrape | Jupyter Notebook used to scrape data from cars.com |
