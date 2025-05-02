@@ -2,7 +2,9 @@
 Final project for data wrangling. 
 This is for providing info about the project.
 
-Preliminary Dataset: https://www.cars.com/shopping/results/?stock_type=used&makes%5B%5D=&models%5B%5D=&maximum_distance=250&zip=52242
+Preliminary Dataset: https://www.kaggle.com/datasets/taeefnajib/used-car-price-prediction-dataset/data
+
+Scraped Website:  https://www.cars.com/shopping/results/?stock_type=used&makes%5B%5D=&models%5B%5D=&maximum_distance=250&zip=52242
 
 | File Name | Description |
 | ------ | ------ |
