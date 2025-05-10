@@ -1,0 +1,280 @@
+,price,mileage,model_year,brand,model,ext_col,int_col,fuel_type,Drivetrain,MPG,transmission,data_year
+1,41777,36670,2023,Ford,F-150 XLT,Agate Black Metallic,Black,Gasoline,Four-wheel Drive,17–22,Automatic,2025
+2,26557,77560,2022,Subaru,Outback Wilderness,Crystal Black Silica,Gray,Gasoline,All-wheel Drive,22–26,CVT Lineartronic,2025
+3,27500,21957,2022,Mitsubishi,Outlander SEL 2.5 2WD,Alloy Silver Metallic,Black,Gasoline,Front-wheel Drive,24–31,CVT,2025
+4,20499,27008,2019,Kia,Sorento LX,Silver,Satin Black,Gasoline,All-wheel Drive,21–26,Automatic,2025
+5,37998,46140,2019,Porsche,Cayenne,Blue,BLACK,Gasoline,Four-wheel Drive,19–23,Automatic,2025
+6,53989,10315,2024,Acura,MDX Technology,Liquid Carbon Metallic,Espresso,Gasoline,All-wheel Drive,19–25,10-Speed Automatic,2025
+7,40998,25114,2024,Cadillac,LYRIQ Luxury 1,Pearl,BLACK,,Rear-wheel Drive,,Automatic,2025
+8,27104,43455,2023,Chrysler,Pacifica Touring-L,Bright White Clearcoat,Black,Gasoline,Front-wheel Drive,19–28,9-Speed Automatic,2025
+9,11725,170587,2012,RAM,1500 SLT,Mineral Gray Clearcoat Metallic,Dark Slate,Gasoline,Four-wheel Drive,14–19,6-Speed Automatic,2025
+10,17989,64329,2021,Nissan,Altima 2.5 SV,Brilliant Silver Metallic,Charcoal,Gasoline,Front-wheel Drive,27–37,Automatic CVT,2025
+11,29000,124788,2018,GMC,Yukon Denali,Onyx Black,Jet Black,Gasoline,Four-wheel Drive,14–22,Automatic,2025
+12,23998,83570,2020,Chrysler,Pacifica Touring-L Plus,Billet Silver Metallic Clearcoat,Black,Gasoline,Front-wheel Drive,19–28,Automatic,2025
+13,51800,71553,2023,GMC,Yukon 4WD AT4,Sterling Metallic,Jet Black,Gasoline,Four-wheel Drive,15–20,Automatic,2025
+14,6200,173994,2012,Honda,Accord EX-L,Basque Red Pearl II,Ivory,Gasoline,Front-wheel Drive,23–34,5-Speed Automatic,2025
+15,32490,43784,2021,Buick,Enclave Premium,Satin Steel Metallic,Shale with Ebony interior accents,Gasoline,All-wheel Drive,17–25,Automatic,2025
+16,33466,9365,2023,Kia,Sorento SX,Wolf Gray,Black,Gasoline,Front-wheel Drive,22–29,8-Speed Automatic with Auto-Shift,2025
+17,24900,73733,2020,Subaru,Forester Sport,Ice Silver Metallic,Gray,Gasoline,All-wheel Drive,26–33,Variable,2025
+18,9232,106404,2012,Audi,Q5 3.2 Premium Plus,Black,Black,Gasoline,All-wheel Drive,18–23,Automatic,2025
+19,44977,58275,2021,Land,Rover Range Rover Sport HSE Dynamic,Santorini Black,Pimento / Ebony,Gasoline,Four-wheel Drive,17–22,8-Speed Automatic,2025
+20,17500,75483,2019,Nissan,Altima 2.5 SR,Gun Metallic,Sport,Gasoline,All-wheel Drive,25–35,Automatic,2025
+21,16630,93412,2018,Jeep,Grand Cherokee Laredo E,Velvet Red Pearlcoat,Black,Gasoline,Four-wheel Drive,18–25,Automatic,2025
+22,32998,345,2024,Nissan,Frontier SV,Green,BLACK,Gasoline,Rear-wheel Drive,18–24,Automatic,2025
+23,22599,38661,2017,Jeep,Wrangler Sport,Black Clearcoat,Black,Gasoline,Four-wheel Drive,17–21,Automatic,2025
+24,29888,36502,2023,Alfa,Romeo Stelvio Veloce AWD,Vulcano Black Metallic,Black,Gasoline,All-wheel Drive,22–28,Automatic,2025
+25,19900,58481,2022,Nissan,Altima 2.5 SL,Storm Blue Metallic,Charcoal,Gasoline,Front-wheel Drive,27–37,Automatic,2025
+26,26998,56136,2020,Land,Rover Range Rover Evoque SE,Black,BLACK,Gasoline,Four-wheel Drive,20–27,Automatic,2025
+27,37746,50127,2020,Chevrolet,Silverado 1500 RST,Summit White,Jet Black,Gasoline,Four-wheel Drive,16–22,8-Speed A/T,2025
+28,37746,50127,2020,Chevrolet,Silverado 1500 RST,Summit White,Jet Black,Gasoline,Four-wheel Drive,16–22,8-Speed A/T,2025
+29,30777,58563,2022,Chrysler,Pacifica Touring L,Bright White Clearcoat,Black/Alloy/Black,Gasoline,All-wheel Drive,17–25,9-Speed 948TE Automatic,2025
+30,24000,23184,2019,Buick,Envision Premium I,Bronze Alloy Metallic,Ebony,Gasoline,All-wheel Drive,20–25,9-Speed Automatic,2025
+31,45999,24802,2021,BMW,X5 xDrive40i,Alpine White,Coffee,Gasoline,All-wheel Drive,21–25,Automatic,2025
+32,65995,42749,2023,GMC,Sierra 1500 AT4X,Summit White,Obsidian Rush,Gasoline,Four-wheel Drive,14–17,10-Speed Automatic,2025
+33,64995,19907,2023,GMC,Sierra 1500 Denali Ultimate,White Frost Tricoat,Alpine Umber,Gasoline,Four-wheel Drive,15–19,Automatic,2025
+34,52991,12826,2025,RAM,1500 Rebel,Billet Silver Metallic Clearcoat,Red/Black,Gasoline,Four-wheel Drive,14–24,8-Speed Automatic,2025
+35,25500,66401,2023,Chrysler,Pacifica Limited,Ceramic Gray Clearcoat,Black/Alloy/Black,Gasoline,Front-wheel Drive,19–28,Automatic,2025
+36,37495,13113,2022,Acura,RDX Base,Liquid Carbon Metallic,Ebony,Gasoline,All-wheel Drive,21–27,Automatic,2025
+37,27995,13442,2025,Honda,Civic Sport,Urban Gray Pearl,Black,Gasoline,Front-wheel Drive,31–39,CVT,2025
+38,50900,20730,2022,Volvo,XC90 T6 Inscription 7 Passenger,Denim Blue Metallic,Amber,Gasoline,All-wheel Drive,19–27,8-Speed Automatic,2025
+39,34910,18144,2017,Ford,Mustang GT Premium,INGOT SILVER METALLIC,EBONY LTHR TRM POWER SEATS,Gasoline,Rear-wheel Drive,15–24,Automatic,2025
+40,21870,90028,2020,Subaru,Outback Premium,Abyss Blue Pearl,Slate Black,Gasoline,All-wheel Drive,26–33,CVT Lineartronic,2025
+41,47999,3061,2025,Chevrolet,Silverado 1500 Custom Trail Boss,Sterling Gray Metallic,Jet Black,Gasoline,Four-wheel Drive,16–17,Automatic,2025
+42,31994,44472,2022,Chevrolet,Silverado 1500 LT,Black,Jet Black,Gasoline,Four-wheel Drive,17–20,Automatic,2025
+43,31998,26038,2022,Nissan,Murano Platinum,Black,BLACK,Gasoline,Four-wheel Drive,20–28,Automatic,2025
+44,36995,50380,2020,Ford,F-150 XLT,Blue,Black,Gasoline,Four-wheel Drive,15–22,Automatic,2025
+45,20000,89281,2021,Kia,Sorento S,Glacial White Pearl,Black,Gasoline,Front-wheel Drive,24–29,8-Speed Automatic,2025
+46,37854,34262,2024,Jeep,Grand Cherokee Limited X,Bright White Clearcoat,Global Black,Gasoline,Four-wheel Drive,19–26,Automatic,2025
+47,21987,57358,2022,Genesis,G70 2.0T RWD,Makalu Gray,Black,Gasoline,Rear-wheel Drive,21–31,Automatic,2025
+48,29444,32720,2022,Subaru,Forester Wilderness,Crystal White Pearl,Gray,Gasoline,All-wheel Drive,25–28,Lineartronic CVT,2025
+49,28999,10396,2024,Hyundai,SANTA FE SEL,White,Gray,Gasoline,Front-wheel Drive,20–29,8-Speed Automatic with Auto-Shift,2025
+50,18862,90516,2018,Jeep,Grand Cherokee Limited,Velvet Red Pearlcoat,Black,Gasoline,Four-wheel Drive,18–25,8-Speed Automatic,2025
+51,35000,31517,2023,Chrysler,Pacifica Touring L,Brilliant Black Crystal Pearlcoat,Black,Gasoline,All-wheel Drive,17–25,Automatic,2025
+52,23377,90995,2021,Kia,Telluride S,Ebony Black,Black,Gasoline,All-wheel Drive,19–24,8-Speed Automatic,2025
+53,30985,74122,2017,Chevrolet,Silverado 1500 LTZ,Silver Ice Metallic,Black,Gasoline,Four-wheel Drive,16–22,Automatic,2025
+54,45865,3823,2024,Ford,F-150 STX,Agate Black Metallic,Black,Gasoline,Four-wheel Drive,18–23,10-Speed Automatic,2025
+55,10349,123358,2015,Nissan,Rogue SL,Gun Metallic,Almond,Gasoline,All-wheel Drive,25–32,Automatic,2025
+56,23995,35971,2022,Mitsubishi,Outlander SE 2.5 S-AWC,White Diamond,Black,Gasoline,Four-wheel Drive,24–30,Automatic,2025
+57,38990,3004,2025,Hyundai,SANTA FE XRT,Hampton Gray,Black,Gasoline,All-wheel Drive,19–26,8-Speed Automatic with Auto-Shift,2025
+58,29900,24391,2024,Toyota,Camry SE,Celestial Silver Metallic,Black,Gasoline,Front-wheel Drive,28–39,8-Speed Automatic,2025
+59,46000,59194,2023,RAM,1500 Limited,Bright White Clearcoat,Black,Gasoline,Four-wheel Drive,17–22,8-Speed A/T,2025
+60,56998,10221,2023,Mercedes-Benz,GLE 350,Silver,BROWN,Gasoline,Rear-wheel Drive,20–25,Automatic,2025
+61,59999,49190,2023,Lucid,Air Grand Touring,Quantum Gray Metallic,Gray,,All-wheel Drive,,Automatic,2025
+62,26795,41435,2022,Alfa,Romeo Stelvio Ti,Vesuvio Gray Metallic,Black,Gasoline,All-wheel Drive,22–28,8-Speed Automatic,2025
+63,26988,9380,2024,Volkswagen,Tiguan 2.0T Wolfsburg Edition,REFLEX_SILVER_METALLIC,Titan Black w/Orange Stitching,Gasoline,Front-wheel Drive,0–0,Automatic,2025
+64,20968,129994,2017,RAM,1500 Sport,Bright White Clearcoat,Black,Gasoline,Four-wheel Drive,16–21,Automatic,2025
+65,24420,47872,2023,Hyundai,SANTA FE SEL 2.4,Shimmering Silver,Gray,Gasoline,All-wheel Drive,22–25,Automatic,2025
+66,18750,71186,2018,Acura,RDX Base,Modern Steel Metallic,Ebony,Gasoline,All-wheel Drive,19–27,6-Speed Automatic,2025
+67,18750,71186,2018,Acura,RDX Base,Modern Steel Metallic,Ebony,Gasoline,All-wheel Drive,19–27,6-Speed Automatic,2025
+68,28502,22064,2022,Alfa,Romeo Stelvio Ti,Moonlight Gray Metallic,Black,Gasoline,All-wheel Drive,22–28,Automatic,2025
+69,7989,135499,2009,Honda,Civic EX,BRONZE,Beige,Gasoline,Front-wheel Drive,25–36,Automatic,2025
+70,44000,518,2025,Buick,Envision Avenir AWD,Ebony Twilight Metallic,Ebony seats with Ebony interior accents,Gasoline,All-wheel Drive,22–28,Automatic,2025
+71,39888,8088,2025,RAM,1500 Big Horn/Lone Star,Delmonico Red Pearlcoat,Black,Gasoline,Four-wheel Drive,19–24,8-Speed Automatic,2025
+72,32500,46078,2023,Jeep,Grand Cherokee Limited X,Bright White Clearcoat,Global Black,Gasoline,Four-wheel Drive,19–0,Automatic,2025
+73,14399,101696,2015,Subaru,Forester 2.5i Touring,Satin White Pearl,Gray,Gasoline,All-wheel Drive,24–32,Automatic,2025
+74,39998,5634,2024,Toyota,Tacoma SR5,Gray,Black,Gasoline,Four-wheel Drive,19–24,0,2025
+75,28800,2290,2025,MINI,Hardtop SIGNATURE PLUS,Blazing Blue Metallic,Gray / Blue,Gasoline,Front-wheel Drive,28–39,7-Speed Automatic with Auto-Shift,2025
+76,28799,6559,2024,Honda,Accord EX 1.5T,PLATINUM WHITE PEARL WHI,–,Gasoline,Front-wheel Drive,29–37,Automatic,2025
+77,32998,52815,2017,Porsche,Cayenne Platinum,White,BLACK,Gasoline,Four-wheel Drive,17–23,Automatic,2025
+78,61733,16660,2024,GMC,Sierra 1500 AT4,Gray,Jet Black,Gasoline,Four-wheel Drive,21–23,10-Speed Automatic,2025
+79,20682,78689,2022,Mitsubishi,Outlander SEL 2.5 2WD,-Select-,Black,Gasoline,Front-wheel Drive,24–31,Automatic,2025
+80,12714,52872,2015,MINI,Hardtop Cooper S,Electric Blue Metallic,Carbon Black,Gasoline,Front-wheel Drive,24–34,6-Speed Automatic,2025
+81,29000,72490,2021,Chevrolet,Silverado 1500 Custom,Summit White,Jet Black,Gasoline,Four-wheel Drive,15–20,6-Speed Automatic Electronic with Overdrive,2025
+82,46998,31397,2024,Audi,Q7 45 Premium Plus,Mythos Black Metallic,Black,Gasoline,All-wheel Drive,19–25,Automatic,2025
+83,43000,20456,2023,Jeep,Wrangler 4-Door High Tide 4x4,High Velocity Clearcoat,Black,Gasoline,Four-wheel Drive,19–24,8-Speed Automatic,2025
+84,62597,28846,2024,RAM,1500 Rebel,Bright White Clearcoat,Black,Gasoline,Four-wheel Drive,19–24,8-Speed Automatic,2025
+85,8500,149793,2015,Nissan,Rogue S,Arctic Blue Metallic,Charcoal,Gasoline,All-wheel Drive,25–32,Automatic,2025
+86,6977,190400,2015,Kia,Sorento LX,Dark Cherry,Black,Gasoline,All-wheel Drive,19–25,Automatic,2025
+87,44891,14889,2024,Cadillac,XT5 Premium Luxury,Stellar Black Metallic,Black,Gasoline,All-wheel Drive,21–27,Automatic,2025
+88,25225,18602,2023,Honda,Accord LX 1.5T,Platinum White Pearl,Black,Gasoline,Front-wheel Drive,29–37,Automatic,2025
+89,23000,960,2025,Nissan,Altima 2.5 SV,Super Black Clearcoat,Charcoal,Gasoline,Front-wheel Drive,27–39,CVT with Xtronic,2025
+90,16511,143105,2015,Chevrolet,Silverado 1500 LT,Black,Jet Black,Gasoline,Four-wheel Drive,17–22,6-Speed Automatic,2025
+91,36888,42039,2018,GMC,Sierra 1500 Denali,Onyx Black,Cocoa/Dark Sand,Gasoline,Four-wheel Drive,15–20,8-Speed Automatic with Overdrive,2025
+92,38475,15306,2024,Volkswagen,Atlas 2.0T SE w/Technology 4MOTION,Silver Mist Metallic,Titan Black,Gasoline,All-wheel Drive,19–26,Automatic,2025
+93,23880,82275,2021,Volkswagen,Atlas 3.6L SE w/Technology,Platinum Gray Metallic,Titan Black,Gasoline,All-wheel Drive,16–22,Automatic,2025
+94,39000,458,2025,Toyota,Tacoma SR5,Ice,Boulder,Gasoline,Four-wheel Drive,19–24,8-Speed Automatic,2025
+95,29186,32210,2022,Alfa,Romeo Stelvio Ti,Alfa Rosso,Black,Gasoline,All-wheel Drive,22–28,8-Speed Automatic,2025
+96,27900,72589,2016,Ford,F-150 Lariat,Magnetic,Black,Gasoline,Four-wheel Drive,–,6-Speed Automatic,2025
+97,23990,84006,2019,Acura,RDX Base,Blue,Ebony,Gasoline,All-wheel Drive,21–27,10-Speed Automatic,2025
+98,68595,8750,2025,Audi,Q7 55 Premium Plus,Samurai Gray Metallic,Black,Gasoline,All-wheel Drive,18–23,Automatic,2025
+99,43500,16578,2022,Ford,F-150 XLT,Atlas Blue Metallic,Black,Gasoline,Four-wheel Drive,22,10-Speed Automatic,2025
+100,19705,77194,2018,Chrysler,300 S,Granite Crystal Metallic Clearcoat,Black,Gasoline,Rear-wheel Drive,19–30,Automatic,2025
+101,35247,34630,2021,Cadillac,XT5 Sport,Dark Moon Blue Metallic,"Jet Black, Leather Seating Surfaces With Mini-Perforated Inserts",Gasoline,All-wheel Drive,18–26,Automatic,2025
+102,12899,166092,2018,Jeep,Grand Cherokee Laredo E,Bright White Clearcoat,Black,Gasoline,Four-wheel Drive,18–25,8-Speed Automatic,2025
+103,75995,5712,2024,INEOS,Grenadier FIELDMASTER EDITI,Black,Black,Gasoline,Four-wheel Drive,–,Automatic,2025
+104,32499,45667,2024,Subaru,Outback Touring,Crystal White Pearl,Black,Gasoline,All-wheel Drive,26–32,Variable,2025
+105,33968,60655,2020,Ford,F-150 XLT,Rapid Red Metallic Tinted Clearcoat,Black,Gasoline,Four-wheel Drive,15–21,Automatic,2025
+106,40384,23816,2022,Ford,F-150 XLT,Red,–,Gasoline,Four-wheel Drive,19–22,10-Speed Automatic,2025
+107,26198,52155,2021,RAM,1500 Big Horn/Lone Star,Bright White Clearcoat,Diesel Gray/Black,Gasoline,Four-wheel Drive,19–24,Automatic,2025
+108,29788,79028,2020,Chevrolet,Silverado 1500 Custom,Black,Jet Black,Gasoline,Four-wheel Drive,14–20,Automatic,2025
+109,25998,42365,2021,Toyota,Prius Prime XLE,Silver,BLACK,Plug-In Hybrid,Rear-wheel Drive,55–53,Automatic,2025
+110,50998,7283,2024,Toyota,Highlander Hybrid XLE,Gray,GRAY,Hybrid,Rear-wheel Drive,36–35,Automatic,2025
+111,48680,32458,2022,Volvo,XC90 T6 Inscription,Denim Blue Metallic,Charcoal,Gasoline,All-wheel Drive,19–27,Automatic,2025
+112,32989,15117,2023,Buick,Envision Essence AWD,Ebony Twilight Metallic,Ebony Seats,Gasoline,All-wheel Drive,22–29,9-Speed Automatic,2025
+113,20295,30043,2024,Nissan,Altima 2.5 SV,Super Black,Charcoal,Gasoline,Front-wheel Drive,27–39,CVT with Xtronic,2025
+114,33998,7162,2021,Acura,RDX Technology,Gray,BLACK,Gasoline,Rear-wheel Drive,22–28,Automatic,2025
+115,38700,8725,2024,Alfa,Romeo Stelvio Ti,Vulcano Black Metallic,Black/Red,Gasoline,All-wheel Drive,22–28,8-Speed Automatic,2025
+116,15500,119351,2016,Toyota,Camry XSE,Predawn Gray Mica,Ash,Gasoline,Front-wheel Drive,21–31,Automatic,2025
+117,27998,20103,2024,Toyota,Camry SE,ICE EDE,Black,Gasoline,Front-wheel Drive,28–39,Automatic,2025
+118,28788,772,2024,Honda,Civic Sport,Platinum White Pearl,Black,Gasoline,Front-wheel Drive,30–37,Automatic,2025
+119,25600,18745,2024,Honda,Civic Sport,Platinum White Pearl,Black,Gasoline,Front-wheel Drive,30–37,Automatic,2025
+120,31757,18429,2022,Hyundai,SANTA FE Calligraphy,Stormy Sea,Beige,Gasoline,All-wheel Drive,21–28,8-Speed Automatic with Auto-Shift,2025
+121,38551,37747,2024,Chrysler,Pacifica Limited,Bright White Clearcoat,Black,Gasoline,Front-wheel Drive,19–28,9-Speed Automatic,2025
+122,6900,190493,2015,Kia,Sorento LX,Bright Silver,Black,Gasoline,Front-wheel Drive,20–27,6-Speed Automatic,2025
+123,23978,14730,2022,Buick,Envision FWD Preferred,Ebony Twilight Metallic,Ebony Seats,Gasoline,Front-wheel Drive,24–31,Automatic,2025
+124,83000,37800,2021,Porsche,Cayenne GTS,Dolomite Silver Metallic,Black/Silver Houndstooth,Gasoline,All-wheel Drive,15–19,Automatic,2025
+125,18620,56145,2022,Nissan,Altima 2.5 SV,Gun Metallic,Charcoal,Gasoline,Front-wheel Drive,27–37,Automatic CVT,2025
+126,63800,34934,2021,Cadillac,Escalade Premium Luxury,Black Raven,Jet Black,Gasoline,Four-wheel Drive,14–19,Automatic,2025
+127,23179,29874,2020,Toyota,Camry LE,Ruby Flare Pearl,Black Cloth,Gasoline,Front-wheel Drive,28–39,Automatic,2025
+128,25625,11349,2024,Volkswagen,Tiguan 2.0T S,Deep Black Pearl Effect,Titan Black,Gasoline,Front-wheel Drive,23–30,8-Speed Automatic,2025
+129,75776,30456,2024,BMW,X5 M60i,Black Sapphire Metallic,Coffee,Gasoline,All-wheel Drive,17–22,Automatic,2025
+130,22998,36265,2018,INFINITI,QX30 Premium,Red,TAN,Gasoline,Rear-wheel Drive,24–33,Automatic,2025
+131,29977,85295,2019,Ford,F-150 XLT,Ingot Silver Metallic,Black,Gasoline,Four-wheel Drive,17–23,Automatic,2025
+132,59662,12610,2023,Maserati,Ghibli Modena Q4,Blue,Red,Gasoline,All-wheel Drive,17–25,Automatic,2025
+133,16998,83641,2017,INFINITI,QX50,Gray,GRAY,Gasoline,Four-wheel Drive,17–24,Automatic,2025
+134,32900,11830,2023,Hyundai,SANTA FE Calligraphy,Phantom Black,Light Sand,Gasoline,All-wheel Drive,21–28,8-Speed Automatic with Auto-Shift,2025
+135,12918,123581,2016,Subaru,Outback 3.6R Limited,Ice Silver Metallic,Slate Black,Gasoline,All-wheel Drive,20–27,Automatic,2025
+136,78989,32443,2023,Cadillac,Escalade Sport,Black Raven,Jet Black,Gasoline,All-wheel Drive,14–18,10-Speed Automatic,2025
+137,40606,76132,2022,Ford,F-150 Lariat,Oxford White,Black,Gasoline,Four-wheel Drive,–,10-Speed Automatic,2025
+138,22900,19355,2021,Nissan,Altima 2.5 SL,Storm Blue Metallic,Charcoal,Gasoline,All-wheel Drive,25–35,Automatic,2025
+139,37977,45089,2020,Lexus,RX 350 Base,Caviar 223,Black,Gasoline,All-wheel Drive,19–0,Automatic,2025
+140,35998,18700,2023,Alfa,Romeo Stelvio Estrema,Alfa White,Black,Gasoline,All-wheel Drive,22–28,Automatic,2025
+141,21999,42482,2019,Volkswagen,Beetle 2.0T S,Deep Black,Titan Black,Gasoline,Front-wheel Drive,26–33,Automatic,2025
+142,26988,47859,2023,Genesis,G70 2.0T AWD,Makalu Gray,Obsidian Black/Sandstorm Gray,Gasoline,All-wheel Drive,20–28,Automatic,2025
+143,29998,16297,2022,Hyundai,Santa Fe Plug-In Hybrid SEL Convenience,Silver,GRAY,Plug-In Hybrid,Four-wheel Drive,–,Automatic,2025
+144,38998,49169,2019,Chevrolet,Silverado 1500 High Country,Black,Black,E85 Flex Fuel,Four-wheel Drive,16–20,Automatic,2025
+145,16788,64626,2016,Toyota,Camry,–,–,Gasoline,Front-wheel Drive,25–35,6-Speed Automatic,2025
+146,30516,14568,2023,Buick,Envision Essence,Moonstone Gray Metallic,Ebony,Gasoline,All-wheel Drive,22–29,9-Speed Automatic,2025
+147,18795,130844,2019,Volkswagen,Atlas 3.6L SEL Premium,Deep Black Pearl,Titan Black,Gasoline,All-wheel Drive,17–23,8-Speed Automatic with Tiptronic,2025
+148,31500,32836,2023,Jeep,Grand Cherokee Limited X,Bright White Clearcoat,Global Black,Gasoline,Four-wheel Drive,19–26,Automatic,2025
+149,22000,68036,2018,Acura,MDX 3.5L,Modern Steel Metallic,Ebony,Gasoline,Front-wheel Drive,19–27,Automatic,2025
+150,16898,75271,2016,Volvo,XC60 T6 Drive-E Platinum,Black,Off-Black,Gasoline,All-wheel Drive,19–27,Automatic,2025
+151,12377,103415,2013,Acura,RDX Base,Silver,–,Gasoline,All-wheel Drive,19–27,Automatic,2025
+152,43995,50628,2021,RAM,1500 Limited,Delmonico Red Pearlcoat,Indigo/Frost,Gasoline,Four-wheel Drive,17–21,Automatic,2025
+153,25893,25293,2024,Mazda,CX-5 Carbon Edition,Polymetal Gray Metallic,Black,Gasoline,All-wheel Drive,23–29,6-Speed Automatic,2025
+154,45439,45313,2020,GMC,Sierra 1500 Denali,White Frost Tricoat,Jet Black,Diesel,Four-wheel Drive,22–26,Automatic,2025
+155,61852,21327,2024,Ford,F-150 Lariat,Agate Black Metallic,Black,Gasoline,Four-wheel Drive,16–24,10-Speed Automatic,2025
+156,22295,48662,2023,Hyundai,SANTA FE SEL 2.4,Calypso Red,Black,Gasoline,Front-wheel Drive,25–28,8-Speed Automatic with SHIFTRONIC,2025
+157,18500,95524,2018,Jeep,Grand Cherokee Limited X,Diamond Black Crystal Pearlcoat,Black,Gasoline,Four-wheel Drive,18–25,Automatic,2025
+158,18500,95524,2018,Jeep,Grand Cherokee Limited X,Diamond Black Crystal Pearlcoat,Black,Gasoline,Four-wheel Drive,18–25,Automatic,2025
+159,27881,67817,2023,Chrysler,Pacifica Limited,Silver Mist Clearcoat,Black/Alloy/Black,Gasoline,Front-wheel Drive,19–28,Automatic,2025
+160,57998,4106,2024,INFINITI,QX80 LUXE,–,–,Gasoline,Four-wheel Drive,13–19,Automatic,2025
+161,20995,78387,2019,Buick,Envision Premium II,Bronze Alloy Metallic,Light Neutral,Gasoline,All-wheel Drive,20–25,Automatic,2025
+162,36917,70980,2020,Chevrolet,Silverado 1500 RST,Black,Jet Black,Gasoline,Four-wheel Drive,16–22,8-Speed Automatic,2025
+163,42352,24581,2022,GMC,Sierra 1500 Elevation,Onyx Black,Jet Black,Gasoline,Four-wheel Drive,17–20,Automatic,2025
+164,37125,62139,2020,RAM,1500 Rebel,Flame Red Clearcoat,Red/Black,Gasoline,Four-wheel Drive,15–21,Automatic,2025
+165,80995,27153,2024,Lincoln,Navigator Reserve,Infinite Black Metallic Clearcoat,Black Onyx,Gasoline,Four-wheel Drive,16–22,Automatic,2025
+166,32975,22494,2022,Toyota,Camry SE,White,Black,Gasoline,–,28–39,Automatic,2025
+167,27998,31010,2022,Subaru,Legacy Touring XT,Red,BROWN,Gasoline,Four-wheel Drive,24–32,Automatic,2025
+168,51498,16205,2023,Ford,F-150 XLT,Avalanche,Black,Gasoline,Four-wheel Drive,23–23,10-Speed Automatic,2025
+169,25990,73475,2021,Hyundai,PALISADE SEL,Hyper White,Gray,Gasoline,All-wheel Drive,19–24,Automatic,2025
+170,25416,112976,2017,Chevrolet,Silverado 1500 LTZ,Deep Ocean Blue Metallic,Black,Gasoline,Four-wheel Drive,15–20,Automatic,2025
+171,28000,24339,2022,Honda,Accord Sport SE 1.5T,Still Night Pearl,Black,Gasoline,Front-wheel Drive,29–35,CVT,2025
+172,42952,18812,2022,RAM,1500 Big Horn/Lone Star,Diamond Black Crystal Pearlcoat,–,Gasoline,Four-wheel Drive,15–21,Automatic,2025
+173,25587,41843,2018,Acura,MDX SH-AWD,Crystal Black Pearl,Ebony,Gasoline,All-wheel Drive,18–26,Automatic,2025
+174,33555,36041,2022,Jeep,Grand Cherokee Altitude,Silver Zynith,Black,Gasoline,Four-wheel Drive,19–26,8-Speed Automatic,2025
+175,71897,40633,2023,Cadillac,Escalade Sport,Black Raven,Black,Gasoline,All-wheel Drive,14–18,10-Speed Automatic,2025
+176,19890,94217,2017,Honda,Accord Touring,White,Black,Gasoline,Front-wheel Drive,21–33,6-Speed Automatic,2025
+177,16998,86492,2018,Hyundai,Santa Fe Sport,Gray,GRAY,Gasoline,Four-wheel Drive,20–26,Automatic,2025
+178,46000,30540,2022,Lincoln,Aviator Reserve AWD,Blue Metallic,Ebony,Gasoline,All-wheel Drive,17–24,10-Speed Automatic,2025
+179,42295,24134,2023,Ford,F-150 XLT,Carbonized Gray Metallic,Medium Dark Slate,Gasoline,Four-wheel Drive,17–22,Automatic,2025
+180,26998,37406,2016,BMW,M235 I,Black,CREAM,Gasoline,Rear-wheel Drive,20–31,Automatic,2025
+181,19571,57443,2017,Honda,Civic Sport,Aegean Blue Metallic,–,Gasoline,Front-wheel Drive,30–36,Automatic,2025
+182,14990,139524,2016,BMW,X5 xDrive35i,Mineral Silver Metallic,Mocha,Gasoline,All-wheel Drive,18–24,8-Speed Automatic,2025
+183,45475,4921,2024,Volkswagen,Atlas 2.0T SEL,Deep Black Pearl,Titan Black w/Orange Stitching,Gasoline,All-wheel Drive,18–24,Automatic,2025
+184,51000,33187,2021,Lincoln,Navigator Reserve,Ceramic White,Ebony,Gasoline,Four-wheel Drive,16–20,10-Speed Automatic,2025
+185,35495,77890,2020,Chevrolet,Silverado 1500 RST,Havana Brown Metallic,Jet Black,Gasoline,Four-wheel Drive,20–23,8-Speed Automatic,2025
+186,52399,7392,2024,Chevrolet,Silverado 1500 Custom Trail Boss,Gray,Jet Black,Gasoline,Four-wheel Drive,15–20,Automatic,2025
+187,48000,21417,2023,Toyota,Tacoma TRD Pro,Black,Black,Gasoline,Four-wheel Drive,18–22,6-Speed Automatic,2025
+188,25485,34750,2023,Kia,Sorento LX,Glacial White Pearl,Black,Gasoline,All-wheel Drive,23–25,Automatic,2025
+189,21750,49141,2020,Chrysler,Pacifica Touring,Luxury White Pearlcoat,Black,Gasoline,Front-wheel Drive,19–28,Automatic,2025
+190,17999,76040,2017,Honda,Civic EX-T,Crystal Black Pearl,Black,Gasoline,Front-wheel Drive,31–42,6-Speed Manual,2025
+191,21449,40128,2019,Honda,Accord LX,Lunar Silver Metallic,Gray,Gasoline,Front-wheel Drive,30–38,CVT,2025
+192,33999,21516,2022,Audi,Q5 45 S line Premium,Ibis White,Black,Gasoline,All-wheel Drive,23–28,Automatic,2025
+193,20999,169223,2017,Lexus,RX 350 350,Ultra White,Black,Gasoline,All-wheel Drive,19–26,8-Speed Automatic,2025
+194,32900,16986,2024,Subaru,Outback Onyx Edition,Ice Silver Metallic,Gray,Gasoline,All-wheel Drive,26–32,Automatic CVT,2025
+195,21999,93311,2018,Chevrolet,Silverado 1500 LT,Summit White,Black,Gasoline,Four-wheel Drive,17–22,6-Speed Automatic,2025
+196,47999,22528,2024,Ford,F-150 XLT,Oxford White,Black,Gasoline,Four-wheel Drive,16–24,10-Speed Automatic,2025
+197,26595,6140,2024,Honda,Civic Sport,Meteorite Gray Metallic,Black,Gasoline,Front-wheel Drive,30–37,Automatic,2025
+198,17000,79837,2012,Toyota,Tacoma Base,Pyrite Mica,Graphite,Gasoline,Rear-wheel Drive,19–24,Automatic,2025
+199,32200,30407,2020,Acura,MDX 3.5L w/Technology Package,Majestic Black Pearl,Ebony,Gasoline,All-wheel Drive,19–26,Automatic,2025
+200,41998,12448,2023,Cadillac,CT4-V,Silver,BLACK,Gasoline,Rear-wheel Drive,21–29,Automatic,2025
+201,55500,7968,2024,Chevrolet,Silverado 1500 LT Trail Boss,Slate Gray Metallic,Black,Gasoline,Four-wheel Drive,16–17,10-Speed Automatic,2025
+202,39000,63433,2021,INFINITI,QX80 SENSORY AWD,Graphite Shadow,Graphite,Gasoline,Four-wheel Drive,13–19,Automatic,2025
+203,16500,150919,2014,Ford,F-150 XLT,–,–,Gasoline,Four-wheel Drive,14–19,Automatic,2025
+204,10972,117001,2016,Jeep,Grand Cherokee Laredo,Bright White Clearcoat,Black,Gasoline,Four-wheel Drive,18–25,8-Speed Automatic,2025
+205,35998,18460,2022,Acura,TLX A-Spec,White,BLACK,Gasoline,Rear-wheel Drive,22–30,Automatic,2025
+206,54900,34670,2023,INFINITI,QX80 SENSORY,Anthracite Gray,Saddle Brown,Gasoline,Four-wheel Drive,13–19,7-Speed Automatic,2025
+207,25888,36885,2019,Volkswagen,Atlas 3.6L SE w/Technology,Pacific Blue,Shetland Beige,Gasoline,All-wheel Drive,17–23,8-Speed Automatic,2025
+208,37998,27480,2022,Kia,Sorento Plug-In Hybrid SX Prestige,Black,GRAY,Plug-In Hybrid,Four-wheel Drive,–,Automatic,2025
+209,46991,3142,2025,Hyundai,SANTA FE Calligraphy,Ecotronic Gray,Forest Green/Beige,Gasoline,All-wheel Drive,20–28,Shiftronic,2025
+210,27555,88716,2019,Ford,F-150 XLT,Abyss,Black,Gasoline,Four-wheel Drive,16–22,Automatic,2025
+211,21609,69643,2022,Chrysler,Pacifica Touring-L,Brilliant Black Crystal Pearlcoat,Black,Gasoline,Front-wheel Drive,19–28,9-Speed Automatic,2025
+212,22891,58084,2022,Chrysler,Pacifica Touring L,Ceramic Gray Clearcoat,Black/Alloy/Black,Gasoline,Front-wheel Drive,19–28,Automatic,2025
+213,26272,65450,2022,Jeep,Grand Cherokee Limited X,Velvet Red Pearlcoat,Black,Gasoline,Four-wheel Drive,18–25,Automatic,2025
+214,34998,48591,2016,Nissan,NV Passenger NV3500 HD SV,White,GRAY,Gasoline,Rear-wheel Drive,0–0,Automatic,2025
+215,16400,96577,2014,Jeep,Grand Cherokee Overland,Granite Crystal Metallic Clearcoat,Black,Gasoline,Four-wheel Drive,17–24,Automatic,2025
+216,53997,4003,2024,Chevrolet,Silverado 1500 RST,Slate Gray Metallic,Black,Gasoline,Four-wheel Drive,15–20,Automatic,2025
+217,33595,8473,2025,Nissan,Rogue Rock Creek,Boulder Gray Pearl,charcoal,Gasoline,All-wheel Drive,27–32,CVT with Xtronic,2025
+218,88497,4344,2025,GMC,Yukon Denali,White Frost Tricoat,Teak/Light Shale,Gasoline,Four-wheel Drive,14–18,Automatic,2025
+219,53200,48412,2023,Volvo,XC90 Ultimate,Crystal White Metallic,Maroon Brown,Gasoline,All-wheel Drive,20–26,Automatic with Geartronic,2025
+220,29998,136866,2019,GMC,Sierra 1500 AT4,Smokey Quartz Metallic,Jet Black With Kalahari Accents,Gasoline,Four-wheel Drive,15–19,Automatic,2025
+221,23500,75175,2021,Subaru,Outback Touring,Crystal Black Silica,Java Brown,Gasoline,All-wheel Drive,26–33,CVT Lineartronic,2025
+222,24977,37641,2024,Toyota,Camry SE,Celestial Silver Metallic,Black,Gasoline,Front-wheel Drive,28–39,8-Speed Automatic,2025
+223,21495,89880,2020,Chrysler,Pacifica Limited,Billet Silver Metallic Clearcoat,Alloy/Black,Gasoline,Front-wheel Drive,19–28,Automatic,2025
+224,41999,32322,2021,Ford,F-150 XLT,Agate Black Metallic,Black,Gasoline,Four-wheel Drive,24–24,Automatic,2025
+225,34400,57811,2020,Volvo,XC90 T6 R-Design,Bursting Blue Metallic,Blond,Gasoline,All-wheel Drive,18–26,Automatic,2025
+226,31691,18914,2022,Subaru,Outback Wilderness,Crystal Black Silica,Slate Black,Gasoline,All-wheel Drive,22–26,CVT Lineartronic,2025
+227,26000,32042,2023,Nissan,Rogue SV,White,Charcoal,Gasoline,All-wheel Drive,28–35,Automatic CVT,2025
+228,29090,71131,2019,Acura,RDX A-Spec,Majestic Black Pearl,Red,Gasoline,All-wheel Drive,21–26,10-Speed Automatic,2025
+229,31687,12406,2024,Subaru,Outback Onyx Edition,Ice Silver Metallic,Gray,Gasoline,All-wheel Drive,26–32,Automatic,2025
+230,45977,63417,2021,GMC,Sierra 1500 Denali,Satin Steel Metallic,Jet Black,Diesel,Four-wheel Drive,22–26,Automatic,2025
+231,24835,32376,2023,Honda,Accord LX 1.5T,Meteorite Gray Metallic,Black,Gasoline,Front-wheel Drive,29–37,Automatic,2025
+232,42590,6120,2024,Audi,Q5 45 S line Premium,Mythos Black Metallic,Black,Gasoline,All-wheel Drive,22–28,Automatic,2025
+233,32989,77096,2015,Jaguar,F-TYPE R,Black,Jet,Gasoline,Rear-wheel Drive,16–23,8-Speed ZF Automatic with QuickShift,2025
+234,22000,6320,2020,Honda,Civic LX,Molten Lava Pearl,Black,Gasoline,Front-wheel Drive,30–38,Automatic,2025
+235,31998,32972,2022,Toyota,Camry Hybrid XSE,White,BLACK,Hybrid,Rear-wheel Drive,44–47,Automatic,2025
+236,23750,21964,2023,Nissan,Rogue SV,Gun Metallic,Charcoal,Gasoline,All-wheel Drive,28–35,Automatic,2025
+237,44877,13736,2024,Kia,Sorento SX Prestige,Midnight Black,Brown,Gasoline,All-wheel Drive,20–27,8-Speed Automatic with Auto-Shift,2025
+238,23099,72106,2021,Volkswagen,Atlas 2.0T SE,Dark Blue,Titan Black,Gasoline,All-wheel Drive,20–24,Automatic,2025
+239,35898,5976,2022,Jeep,Grand Cherokee Limited,Bright White Clearcoat,Global Black,Gasoline,Four-wheel Drive,19–26,8-Speed Automatic,2025
+240,19816,51653,2023,Nissan,Altima 2.5 SV,Brilliant Silver Metallic,Charcoal,Gasoline,Front-wheel Drive,27–39,Variable,2025
+241,50995,22974,2024,Chevrolet,Silverado 1500 LT Trail Boss,Sterling Gray Metallic,Jet Black,Gasoline,Four-wheel Drive,15–18,Automatic,2025
+242,61999,4872,2024,Lexus,RX 350 Base,Caviar,Macadamia,Hybrid,All-wheel Drive,37–34,CVT,2025
+243,55795,3612,2025,Acura,MDX A-SPEC,Majestic Black Pearl,Ebony,Gasoline,All-wheel Drive,19–25,10-Speed Automatic,2025
+244,40995,28930,2023,Ford,F-150 XLT,HOT PEPPER RED MET TINTD CC,DARK SLATE CLOTH 40CONSLE40,Gasoline,Four-wheel Drive,17–23,Automatic,2025
+245,42880,23684,2023,Audi,Q5 45 S line Prestige,Navarra Blue Metallic,Okapi Brown,Gasoline,All-wheel Drive,22–29,Automatic,2025
+246,14998,18186,2019,Ford,Fiesta SE,Orange,BLACK,Gasoline,Rear-wheel Drive,27–35,Automatic,2025
+247,16995,155913,2015,GMC,Sierra 1500 SLT,Iridium Metallic,Black,Gasoline,Four-wheel Drive,16–22,Automatic,2025
+248,21477,84590,2017,Chevrolet,Silverado 1500 LT,Graphite Metallic,Jet Black,Gasoline,Four-wheel Drive,17–22,6-Speed Automatic,2025
+249,29096,60888,2022,Chrysler,Pacifica Touring L,Gray,Black,Gasoline,All-wheel Drive,14–25,Automatic,2025
+250,76987,37890,2021,Cadillac,Escalade Sport Platinum,Gray,Black,Gasoline,Four-wheel Drive,14–19,10-Speed Automatic,2025
+251,29988,6296,2024,Honda,Civic Sport,Meteorite Gray Metallic,Black,Gasoline,Front-wheel Drive,30–37,Automatic CVT,2025
+252,26998,53909,2018,BMW,X5 eDrive XDrive40e,Black,BLACK,Plug-In Hybrid,Four-wheel Drive,23–25,Automatic,2025
+253,32432,35710,2023,Subaru,Forester Touring,Crystal White Pearl,Black,Gasoline,All-wheel Drive,26–33,Automatic,2025
+254,27945,28428,2022,Subaru,Outback Premium,Ice Silver,Slate Black,Gasoline,All-wheel Drive,26–33,Automatic,2025
+255,15290,83234,2016,Honda,Civic EX-T,Lunar Silver Metallic,Ivory,Gasoline,Front-wheel Drive,31–42,CVT,2025
+256,17995,106691,2018,Cadillac,XT5 Luxury,Crystal White Tricoat,Jet Black,Gasoline,All-wheel Drive,18–25,8-Speed Automatic,2025
+257,20995,55775,2019,Mazda,CX-5 Touring,Sonic Silver Metallic,Black,Gasoline,All-wheel Drive,24–30,6-Speed Automatic,2025
+258,40995,32880,2020,RAM,1500 Rebel,Diamond Black Crystal Pearlcoat,Red/Black,Gasoline,Four-wheel Drive,15–21,Automatic,2025
+259,38128,33926,2022,INFINITI,QX60 Luxe,Majestic White,Graphite,Gasoline,Front-wheel Drive,21–26,9-Speed Automatic,2025
+260,44998,25763,2024,INFINITI,QX60 Luxe,Graphite Shadow,Graphite,Gasoline,All-wheel Drive,20–25,Automatic,2025
+261,31500,79098,2018,RAM,1500 Limited Crew Cab 4x4 5'7' Box,Granite Crystal Metallic Clearcoat,–,Gasoline,Four-wheel Drive,15–21,Automatic,2025
+262,12999,115734,2013,Honda,Civic EX-L,White Orchid Pearl,Black,Gasoline,Front-wheel Drive,28–39,Automatic,2025
+263,14695,92671,2017,Chrysler,Pacifica LX,Brilliant Black Crystal Pearlcoat,Black/Alloy,Gasoline,Front-wheel Drive,18–28,Automatic,2025
+264,21991,66259,2023,Toyota,Camry SE,GRAY,Black,Hybrid,Front-wheel Drive,44–39,Automatic,2025
+265,31495,42020,2024,BMW,X3 xDrive30i,Gray,Black,Gasoline,All-wheel Drive,21–28,8-Speed Automatic Sport,2025
+266,18999,164024,2014,RAM,1500 Laramie,Black Gold Pearlcoat,Light Frost Beige/Canyon Brown,Diesel,Four-wheel Drive,19–27,8-Speed Automatic,2025
+267,41999,20063,2021,Ford,F-150 XLT,Stone Gray Metallic,Medium Dark Slate,Hybrid,Four-wheel Drive,22,10-Speed Automatic,2025
+268,21985,94390,2021,MINI,Hardtop John Cooper Works,Black,Carbon Black,Gasoline,Front-wheel Drive,26–33,Manual,2025
+269,36511,87291,2022,Ford,F-150 Lariat,Oxford White,Black,Gasoline,Four-wheel Drive,–,10-Speed Automatic,2025
+270,18975,57874,2016,Subaru,Outback 2.5i Limited,Wilderness Green Metallic,Warm Ivory,Gasoline,All-wheel Drive,25–33,Automatic,2025
+271,12854,97300,2016,Kia,Sorento EX,Ebony Black / Black,Satin Black,Gasoline,Front-wheel Drive,18–26,6-Speed Automatic,2025
+272,20999,89354,2021,Chrysler,Pacifica Touring,Brilliant Black Crystal Pearlcoat,Black,Gasoline,Front-wheel Drive,19–28,Automatic,2025
+273,16796,66216,2021,Mitsubishi,Outlander Sport SE,Mercury Gray Metallic,Black,Gasoline,Four-wheel Drive,23–29,Automatic,2025
+274,20286,78657,2022,Chrysler,Pacifica Touring L,Bright White Clearcoat,Black/Alloy/Black,Gasoline,Front-wheel Drive,19–28,Automatic,2025
+275,47975,18383,2023,Toyota,Tacoma Base,Black,Black/Gun Metal,Gasoline,–,18–22,Automatic,2025
+276,27789,41805,2022,Jeep,Grand Cherokee Laredo,Diamond Black Crystal Pearlcoat,Black,Gasoline,Four-wheel Drive,18–25,Automatic,2025
+277,46995,38741,2022,Chevrolet,Silverado 1500 LTZ,Summit White,Jet Black,Diesel,Four-wheel Drive,20–26,Automatic,2025
+278,46880,76625,2022,Chevrolet,Silverado 1500 ZR2,Dark Ash Metallic,Jet Black,Gasoline,Four-wheel Drive,14–17,10-Speed Automatic,2025
+279,16750,83802,2018,Subaru,Forester 2.5i Premium,Jasmine Green Metallic,Gray,Gasoline,All-wheel Drive,26–32,Lineartronic CVT,2025
